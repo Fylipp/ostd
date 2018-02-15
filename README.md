@@ -1,6 +1,6 @@
 # ostd
 
-Simple [OpenSubtitles.org](https://www.opensubtitles.org) download CLI-tool and API. You will have to aquire a user-agent from [as described here](http://trac.opensubtitles.org/projects/opensubtitles/wiki/DevReadFirst). The user-agent for test purposes is: `TemporaryUserAgent` (the API docs state this may change without notice, so keep that in mind).
+Simple [OpenSubtitles.org](https://www.opensubtitles.org) download CLI-tool and API. You will have to acquire a user-agent [as described here](http://trac.opensubtitles.org/projects/opensubtitles/wiki/DevReadFirst). The user-agent for test purposes is: `TemporaryUserAgent` (the API docs state this may change without notice, so keep that in mind).
 
 ## Installation
 
