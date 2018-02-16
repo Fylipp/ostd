@@ -1,7 +1,7 @@
 import sys
 from xmlrpc.client import Transport, ServerProxy
 
-from utils import *
+from ostd.utils import *
 
 
 class Downloader:
