@@ -1,4 +1,4 @@
-from distutils.core import setup
+from setuptools import setup
 
 setup(
     name='ostd',
@@ -15,8 +15,9 @@ setup(
     ],
     keywords='opensubtitles',
 
-    py_modules=['ostd'],
-    requires=[
+    packages=['ostd'],
+
+    install_requires=[
         'chardet'
     ]
 )
