@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='ostd',
-    version='1.0.0',
+    version='1.0.1',
 
     description='Downloads subtitles from OpenSubtitles',
     author='Philipp Ploder',
